@@ -6,7 +6,7 @@ const SET_ITEMS = 'SET_ITEMS'
 const SET_ITEM = 'SET_ITEM'
 const SET_PAGES = 'SET_PAGES'
 const SET_USER = 'SET_USER'
-
+//this file will have our main code changes.
 export const state = () => ({
   items: [],
   pages: 0,
